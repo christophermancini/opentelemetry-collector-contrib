@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/processor/filterprocessor
+module github.com/christophermancini/opentelemetry-collector-contrib/processor/filterprocessor
 
 go 1.20
 
